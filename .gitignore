@@ -1,0 +1,5 @@
+.idea
+node_modules
+grib-data
+json-data
+.DS_Store
